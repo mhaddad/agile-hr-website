@@ -1675,7 +1675,6 @@ a.back-to-top:hover, a.back-to-top:focus {
   font-size: 14px;
   box-shadow: none;
   color: #848484;
-  text-transform: capitalize;
   background: #f7f7f7;
   border: 1px solid transparent;
   padding: 7px 19px;
@@ -1727,7 +1726,6 @@ ul.list-topic{
   font-size: 14px;
   box-shadow: none;
   color: #848484;
-  text-transform: capitalize;
   background: #f7f7f7;
   padding: 7px 19px;
   border: 1px solid #e5e5e5;
